@@ -1,0 +1,18 @@
+{
+  "name": "jade-loader-include-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack && node build/bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "jade-loader": "^0.7.1",
+    "locus": "^0.1.0",
+    "webpack": "^1.10.5"
+  }
+}
